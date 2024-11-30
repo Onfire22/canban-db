@@ -1,0 +1,86 @@
+{
+  "tasks": [
+    {
+      "id": "abc",
+      "boardId": "1",
+      "badge": "UX stages",
+      "name": "Wireframing",
+      "text": "Create low-fidelity designs that outline the basic structure and layout of the product or service"
+    },
+    {
+      "id": "abd",
+      "boardId": "1",
+      "badge": "Design",
+      "name": "First design concept",
+      "text": "Create a concept based on the research and insights gathered during the discovery phase of the project"
+    },
+    {
+      "id": "abe",
+      "boardId": "1",
+      "badge": "Design",
+      "name": "Design library",
+      "text": "Create a collection of reusable design elements, such as buttons, forms, and navigation menus."
+    },
+    {
+      "id": "abf",
+      "boardId": "2",
+      "badge": "UX stages",
+      "name": "Customer Journey Mapping",
+      "text": "Identify the key touchpoints and pain points in the customer journey, and to develop strategies to improve the overall customer"
+    },
+    {
+      "id": "abg",
+      "boardId": "2",
+      "badge": "UX stages",
+      "name": "Persona development",
+      "text": "Create user personas based on the research data to represent different user groups and their characteristics, goals, and behaviors"
+    },
+    {
+      "id": "abh",
+      "boardId": "3",
+      "badge": "UX stages",
+      "name": "Competitor research",
+      "text": "Research competitors and identify weakness and strengths each of them. Comparing their product features, quality"
+    },
+    {
+      "id": "abj",
+      "boardId": "4",
+      "badge": "Branding",
+      "name": "Branding, visual identity",
+      "text": "Create a brand identity system that includes a logo, typography, color palette, and brand guidelines"
+    },
+    {
+      "id": "abk",
+      "boardId": "4",
+      "badge": "Branding",
+      "name": "Marketing materials",
+      "text": "Create a branded materials such as business cards, flyers, brochures, and social media graphics"
+    }
+  ],
+  "boards": [
+    {
+      "name": "To Do",
+      "id": "1",
+      "category": "toDo",
+      "color": "#FF8179"
+    },
+    {
+      "name": "In Progress",
+      "id": "2",
+      "category": "inProgress",
+      "color": "#3960FF"
+    },
+    {
+      "name": "Need Review",
+      "id": "3",
+      "category": "needReview",
+      "color": "#FFBE3C"
+    },
+    {
+      "name": "Done",
+      "id": "4",
+      "category": "done",
+      "color": "#0FBF94"
+    }
+  ]
+}
